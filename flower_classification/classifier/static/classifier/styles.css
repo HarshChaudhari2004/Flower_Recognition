@@ -1,0 +1,102 @@
+body {
+    background-color: #000; /* Set background color to black */
+    margin: 0;
+    padding: 0;
+    color: #fff; /* Set text color to white */
+}
+
+#title  {
+    font-family: Verdana;
+    font-style: bold;
+    color: #25d801; /* Set heading color to white */
+    text-align: center;
+    margin: 40px;
+    font-size: 60px;
+}
+
+#result-title {
+    font-family: Verdana;
+    font-style: bold;
+    color: #8dd801; /* Set heading color to white */
+    text-align: center;
+    margin: 40px;
+    font-size: 60px;
+}
+
+#upload-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#file-input {
+    font-family: "Bebas Neue";
+    margin: 30px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #ffa500; /* Orange color for the file input button */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ff6600;
+    font-size: 20px; /* Increase font size for better visibility */
+}
+
+#upload-button {
+    font-family: Verdana;
+    margin: 40px;
+    padding: 10px 20px;
+    background-color: #25d801; /* Green color for the upload button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 30px;
+    margin-top: 10px; /* Add margin for spacing */
+}
+
+#file-input:hover
+{
+    box-shadow: 0 0 20px 10px rgba(255, 94, 0, 0.8); /* Glow effect on hover */
+}
+
+#upload-button:hover
+{
+    box-shadow: 0 0 20px 5px rgba(5, 226, 57, 0.8); /* Glow effect on hover */
+}
+
+#result-image {
+    display:block;
+    width:auto;
+    height: auto;
+    margin: 30px auto;
+    border: 5px solid rgba(91, 241, 22, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 0 20px 2px rgba(91, 241, 22, 0.8); /*shadow */
+
+}
+
+#result-text {
+    font-family: "Bebas Neue";
+    font-style: bold;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(92, 81, 81);
+    color: #09d15c; /* Light grey text color */
+}
+
+#upload-another {
+    font-family: Verdana;
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #ffa500; /* Orange color for the link */
+}
+
+#upload-another:hover {
+    /* text-decoration: underline; */
+    color: #06ec3c; /* White color on hover */
+}

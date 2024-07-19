@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classification Result</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'classifier/styles.css' %}">
+</head>
+<body>
+    <h1 id="result-title">Classification Result</h1>
+    <img id="result-image" src="{{ image_url }}" width="200">
+    <p id="result-text">{{ classification_result }}</p>
+    <a id="upload-another" href="/">Upload another image</a>
+</body>
+</html>

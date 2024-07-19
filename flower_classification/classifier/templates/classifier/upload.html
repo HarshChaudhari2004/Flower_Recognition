@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flower Classification</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'classifier/styles.css' %}">
+</head>
+<body>
+    <h1 id="title">Upload an Image for Classification</h1>
+    <form id="upload-form" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input id="file-input" type="file" name="image">
+        <button id="upload-button" type="submit">Upload</button>
+    </form>
+</body>
+</html>
