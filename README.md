@@ -20,7 +20,7 @@ Prerequisites:
    - Pip (Python package installer)
      
 ## Clone the Repository
-   - '''git clone https://github.com/HarshChaudhari2004/Flower_Recognition.git'''
+   - ```git clone https://github.com/HarshChaudhari2004/Flower_Recognition.git```
    - cd Flower_Recognition 
 
 ## Install Dependencies:
