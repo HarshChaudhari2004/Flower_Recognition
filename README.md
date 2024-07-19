@@ -5,22 +5,23 @@
 This project is a web application that classifies images of flowers using a deep learning model. Built with Django and TensorFlow, it can identify five types of flowers: daisy, dandelion, rose, sunflower, and tulip. The model is trained using Keras and provides accurate classification results.
 
 ## Features:
--Upload flower images for classification.
--The model predicts the type of flower with a confidence score.
--User-friendly, dark-themed interface.
+- Upload flower images for classification.
+- The model predicts the type of flower with a confidence score.
+- User-friendly, dark-themed interface.
 
 ## Tech Stack:
--Django: Web framework for building the web app.
--TensorFlow & Keras: Deep learning library for training and using the flower classification model.
--HTML/CSS: For designing the front-end of the web application.
+- Django: Web framework for building the web app.
+- TensorFlow & Keras: Deep learning library for training and using the flower classification model.
+- HTML/CSS: For designing the front-end of the web application.
 
 ## Installation:
->> Prerequisites:
-   -Python 3.7+
-   -Pip (Python package installer)
-   -Clone the Repository
->> git clone https://github.com/HarshChaudhari2004/Flower_Recognition.git
->> cd Flower_Recognition 
+Prerequisites:
+   - Python 3.7+
+   - Pip (Python package installer)
+     
+## Clone the Repository
+   - git clone https://github.com/HarshChaudhari2004/Flower_Recognition.git
+   - cd Flower_Recognition 
 
 ## Install Dependencies:
 -pip install -r requirements.txt
