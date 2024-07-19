@@ -31,6 +31,7 @@ Prerequisites:
 ## Clone the Repository
    - ```git clone https://github.com/HarshChaudhari2004/Flower_Recognition.git```
    - ```cd Flower_Recognition```
+   - ```cd flower_classification```
 
 ## Install Dependencies:
 - ```pip install -r requirements.txt```
