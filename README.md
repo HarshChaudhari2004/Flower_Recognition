@@ -11,11 +11,11 @@ This project is a web application that classifies images of flowers using a deep
 - The model predicts the type of flower with a confidence score.
 - User-friendly, dark-themed interface.
 
-- ![Screenshot 2024-07-20 011716](https://github.com/user-attachments/assets/c256fa09-8bf0-46a8-a194-b38614db4d4a)
+  ![Screenshot 2024-07-20 011716](https://github.com/user-attachments/assets/c256fa09-8bf0-46a8-a194-b38614db4d4a)
 
-- ![Screenshot 2024-07-20 004326](https://github.com/user-attachments/assets/fac99df8-cd5c-4491-b6ad-a25da50b465c)
+  ![Screenshot 2024-07-20 004326](https://github.com/user-attachments/assets/fac99df8-cd5c-4491-b6ad-a25da50b465c)
 
-- - [Uploading 2024-07-20 00-41-11.mp4…](https://github.com/user-attachments/assets/250d9910-a388-4d70-a74c-996dff1fe62c)
+  [Uploading 2024-07-20 00-41-11.mp4…](https://github.com/user-attachments/assets/250d9910-a388-4d70-a74c-996dff1fe62c)
 
 
 ## Tech Stack:
