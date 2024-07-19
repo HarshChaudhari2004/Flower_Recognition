@@ -21,16 +21,16 @@ Prerequisites:
      
 ## Clone the Repository
    - ```git clone https://github.com/HarshChaudhari2004/Flower_Recognition.git```
-   - cd Flower_Recognition 
+   - ```cd Flower_Recognition```
 
 ## Install Dependencies:
--pip install -r requirements.txt
+- ```pip install -r requirements.txt```
 
 ## Migrate the Database:
-- python manage.py migrate
+- ```python manage.py migrate```
 
 ## Run the Development Server:
--python manage.py runserver
+- ```python manage.py runserver```
 
 ## Access the Application
 Open your web browser and navigate to http://127.0.0.1:8000/ to access the flower classification web app.
